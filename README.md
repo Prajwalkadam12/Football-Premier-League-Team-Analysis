@@ -42,21 +42,25 @@ and interactive way for fans, analysts, or coaches.
 ## 📸 Screenshots
 
 1.	HomePage
- 
+     <img width="962" height="520" alt="image" src="https://github.com/user-attachments/assets/9d76cbef-5c54-46c4-b70c-ae5969724d7b" />
+
 
 
 2.Team Performance Analysis
+<img width="962" height="539" alt="image" src="https://github.com/user-attachments/assets/67f5c8e4-d98c-4f16-b717-b90961c3f8cd" />
 
  
 
 
 3.Goal Analysis
- 
+<img width="962" height="537" alt="image" src="https://github.com/user-attachments/assets/a8f769cb-5501-4fe9-a8f5-d33cddaf6657" />
+
+
 
 
 4.Aggressive Teams 
+<img width="962" height="537" alt="image" src="https://github.com/user-attachments/assets/3acbd993-5903-4642-8153-a4c3ce413715" />
 
- 
 
 
 
